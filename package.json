@@ -1,0 +1,21 @@
+{
+  "name": "@universityofnottingham/sasslint-config",
+  "version": "1.0.0",
+  "description": "UoN standard sass-lint configuration",
+  "files": [
+    ".sass-lint.yml"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uon-npm/sasslint-config.git"
+  },
+  "author": "Jonathan Couldridge <jonathan.couldridge@nottingham.ac.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uon-npm/sasslint-config/issues"
+  },
+  "homepage": "https://github.com/uon-npm/sasslint-config#readme",
+  "peerDependencies": {
+    "sass-lint": ">= 1"
+  }
+}
